@@ -1,0 +1,6 @@
+{
+  "name": "Zoho School Management System",
+  "description": "Comprehensive School Management System architecture and operational hub spanning Zoho CRM for staff and Zoho Creator for parents with Deluge automation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
